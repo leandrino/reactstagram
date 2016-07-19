@@ -2,7 +2,7 @@
 
 // increment
 export function increment (index) {
-	retunr {
+	return {
 		type: 'INCREMENT_LIKES',
 		index
 	}

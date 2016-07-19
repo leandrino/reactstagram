@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router'
 
-const main = React.createClass({
+const Main = React.createClass({
 	render: function () {
 		return (
 			<div>
@@ -15,4 +15,4 @@ const main = React.createClass({
 	}
 })
 
-export default main
+export default Main
